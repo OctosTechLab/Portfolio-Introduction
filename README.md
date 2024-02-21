@@ -21,11 +21,64 @@ My journey in computer science has fueled a strong passion for cybersecurity, le
 | Scripting and Automation for Threat Mitigation | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
 
 ## Tools
-Penetration Testing:
-- Metasploit Framework
-- Burp Suite
-- Nmap
-- Wireshark
+    Vulnerability Assessment and Management:
+   -     Nessus
+  -      OpenVAS
+   -     QualysGuard
+ -       Rapid7 Nexpose
+
+    Penetration Testing:
+ -       Metasploit Framework
+  -      Burp Suite
+  -      Nmap
+  -      Wireshark
+
+    Network Security Monitoring (NSM):
+  -      Snort
+  -      Suricata
+  -      Zeek (formerly known as Bro)
+
+    Intrusion Detection and Prevention Systems (IDPS):
+  -      Snort
+  -      Suricata
+  -      Security Onion
+   -     OSSEC
+
+    Endpoint Security:
+  -      Symantec Endpoint Protection
+  -      McAfee Endpoint Security
+  -      Carbon Black
+  -      CrowdStrike Falcon
+
+    Security Information and Event Management (SIEM):
+ -       Splunk
+ -       IBM QRadar
+ -       LogRhythm
+ -       ArcSight
+
+    Data Loss Prevention (DLP):
+ -       Symantec DLP
+ -       McAfee DLP
+-        Digital Guardian
+-        Forcepoint DLP
+
+    Web Application Security:
+-        OWASP ZAP (Zed Attack Proxy)
+-        Acunetix
+-        AppScan
+-        Netsparker
+
+    Encryption and Cryptography:
+-        OpenSSL
+-        GnuPG
+-        VeraCrypt
+-        BitLocker
+
+    Password Management and Authentication:
+-        LastPass
+-        KeePass
+-        Okta
+-        Duo Security
 
 ## Network
 <div>
