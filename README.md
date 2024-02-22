@@ -20,6 +20,17 @@ My journey in computer science has fueled a strong passion for cybersecurity, le
 | Case Management with TheHive                  | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
 
+| SQLi                                    | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| SIEM - Azure Sentinel :: Honeypot        | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| Active Directory Environment in Azure    | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| File Integrity Monitor (FIM)            | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| Vulnerability Management                | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| REST API                                | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| IDS/IPS                                   | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| Sandbox                                | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| Endpoint protection                    | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| Password Generator                    | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+
 ## Tools
 Vulnerability Assessment and Management:
 - Nessus
