@@ -31,7 +31,7 @@ My journey in computer science has fueled a strong passion for cybersecurity, le
 | IDS/IPS                                   | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
 | Sandbox                                | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
 | Endpoint protection                    | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
-| Password Generator                    | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
+| Password Generator                    | <a href="https://wieske-cv.nl/password-generator-master/docs/index.html">Lab Environment</a>|
 
 ## Tools
 Vulnerability Assessment and Management:
