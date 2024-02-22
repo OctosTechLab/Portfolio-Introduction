@@ -20,7 +20,7 @@ My journey in computer science has fueled a strong passion for cybersecurity, le
 | Case Management with TheHive                  | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Experiences Project         |
 |-----------------------------------------------|----------------------------|
 | SQLi                                    | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
 | SIEM - Azure Sentinel :: Honeypot        | <a href="https://wieske-cv.nl/SQLi/views/index.html">Lab Environment</a>|
