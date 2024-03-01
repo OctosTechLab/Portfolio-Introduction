@@ -44,27 +44,35 @@ My journey in computer science has fueled a strong passion for cybersecurity, le
 
 ### Network Security Monitoring (NSM):
 - Snort, Suricata, Zeek (formerly known as Bro).
+<br>
 
 ### Intrusion Detection and Prevention Systems (IDPS):
 - Snort, Suricata, Security Onion, OSSEC.
+<br>
 
 ### Endpoint Security:
 - Symantec Endpoint Protection, McAfee Endpoint Security, Carbon Black, CrowdStrike Falcon.
+<br>
 
 ### Security Information and Event Management (SIEM):
 - Splunk, IBM QRadar, LogRhythm, ArcSight.
+<br>
 
 ### Data Loss Prevention (DLP):
 - Symantec DLP, McAfee DLP, Digital Guardian, Forcepoint DLP.
+<br>
 
 ### Web Application Security:
 - OWASP ZAP (Zed Attack Proxy), Acunetix, AppScan, Netsparker.
+<br>
 
 ### Encryption and Cryptography:
 - OpenSSL, GnuPG, VeraCrypt, BitLocker.
+<br>
 
 ### Password Management and Authentication:
 - LastPass, KeePass, Okta, Duo Security.
+<br>
 
 ## Network
 <div>
