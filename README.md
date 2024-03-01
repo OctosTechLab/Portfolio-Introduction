@@ -37,31 +37,31 @@ My journey in computer science has fueled a strong passion for cybersecurity, le
 ### Vulnerability Assessment and Management:
 - Nessus, OpenVAS, QualysGuard, Rapid7 Nexpose.
 
-# Penetration Testing:
+### Penetration Testing:
 - Metasploit Framework, Burp Suite, Nmap, Wireshark.
 
-# Network Security Monitoring (NSM):
+### Network Security Monitoring (NSM):
 - Snort, Suricata, Zeek (formerly known as Bro).
 
-# Intrusion Detection and Prevention Systems (IDPS):
+### Intrusion Detection and Prevention Systems (IDPS):
 - Snort, Suricata, Security Onion, OSSEC.
 
-# Endpoint Security:
+### Endpoint Security:
 - Symantec Endpoint Protection, McAfee Endpoint Security, Carbon Black, CrowdStrike Falcon.
 
-# Security Information and Event Management (SIEM):
+### Security Information and Event Management (SIEM):
 - Splunk, IBM QRadar, LogRhythm, ArcSight.
 
-# Data Loss Prevention (DLP):
+### Data Loss Prevention (DLP):
 - Symantec DLP, McAfee DLP, Digital Guardian, Forcepoint DLP.
 
-# Web Application Security:
+### Web Application Security:
 - OWASP ZAP (Zed Attack Proxy), Acunetix, AppScan, Netsparker.
 
-# Encryption and Cryptography:
+### Encryption and Cryptography:
 - OpenSSL, GnuPG, VeraCrypt, BitLocker.
 
-Password Management and Authentication:
+### Password Management and Authentication:
 - LastPass, KeePass, Okta, Duo Security.
 
 ## Network
