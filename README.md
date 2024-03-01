@@ -62,7 +62,7 @@ Encryption and Cryptography:
 - OpenSSL, GnuPG, VeraCrypt, BitLocker.
 
 Password Management and Authentication:
-- LastPass, KeePass, Okta, Duo Security
+- LastPass, KeePass, Okta, Duo Security.
 
 ## Network
 <div>
