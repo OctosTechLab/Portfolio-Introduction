@@ -37,8 +37,10 @@ My journey in computer science has fueled a strong passion for cybersecurity, le
 ### Vulnerability Assessment and Management:
 - Nessus, OpenVAS, QualysGuard, Rapid7 Nexpose.
 
+
 ### Penetration Testing:
 - Metasploit Framework, Burp Suite, Nmap, Wireshark.
+
 
 ### Network Security Monitoring (NSM):
 - Snort, Suricata, Zeek (formerly known as Bro).
