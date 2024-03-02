@@ -34,43 +34,43 @@ My journey in computer science has fueled a strong passion for cybersecurity, le
 | Password Generator                    | <a href="https://wieske-cv.nl/password-generator-master/docs/index.html">Lab Environment</a>|
 
 ## Tools
-### Vulnerability Assessment and Management:
+Vulnerability Assessment and Management:
 - Nessus, OpenVAS, QualysGuard, Rapid7 Nexpose.
 <br>
 
-### Penetration Testing:
+Penetration Testing:
 - Metasploit Framework, Burp Suite, Nmap, Wireshark.
 <br>
 
-### Network Security Monitoring (NSM):
+Network Security Monitoring (NSM):
 - Snort, Suricata, Zeek (formerly known as Bro).
 <br>
 
-### Intrusion Detection and Prevention Systems (IDPS):
+Intrusion Detection and Prevention Systems (IDPS):
 - Snort, Suricata, Security Onion, OSSEC.
 <br>
 
-### Endpoint Security:
+Endpoint Security:
 - Symantec Endpoint Protection, McAfee Endpoint Security, Carbon Black, CrowdStrike Falcon.
 <br>
 
-### Security Information and Event Management (SIEM):
+Security Information and Event Management (SIEM):
 - Splunk, IBM QRadar, LogRhythm, ArcSight.
 <br>
 
-### Data Loss Prevention (DLP):
+Data Loss Prevention (DLP):
 - Symantec DLP, McAfee DLP, Digital Guardian, Forcepoint DLP.
 <br>
 
-### Web Application Security:
+Web Application Security:
 - OWASP ZAP (Zed Attack Proxy), Acunetix, AppScan, Netsparker.
 <br>
 
-### Encryption and Cryptography:
+Encryption and Cryptography:
 - OpenSSL, GnuPG, VeraCrypt, BitLocker.
 <br>
 
-### Password Management and Authentication:
+Password Management and Authentication:
 - LastPass, KeePass, Okta, Duo Security.
 <br>
 
